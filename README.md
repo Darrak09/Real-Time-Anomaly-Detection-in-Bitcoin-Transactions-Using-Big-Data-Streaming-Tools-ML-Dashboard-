@@ -1,0 +1,2 @@
+# Real-Time-Anomaly-Detection-in-Bitcoin-Transactions-Using-Big-Data-Streaming-Tools-ML-Dashboard-
+Research Novelty claimed.First ever exclusive integration. Online/batch anomaly detection, drift-aware consensus,wallet profiling &amp; SHAP explanations into one real-time Bitcoin and Dashboard. Developed by Joseph Taiwo Aragbaiye, September 2026. All rights reserved. No licence granted. Use, copying or modification requires prior written permission.
